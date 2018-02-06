@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "589188390852",
+    "firebase_url": "https://placepicker-c7759.firebaseio.com",
+    "project_id": "placepicker-c7759",
+    "storage_bucket": "placepicker-c7759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589188390852:android:e9256c11217f3ceb",
+        "android_client_info": {
+          "package_name": "info.volngo.www.volngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589188390852-q3jp5cls73ndsp9811n5rvjavhjni1ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.volngo.www.volngo",
+            "certificate_hash": "b002b5dddc5a01fbfea940ae543f858a27667be7"
+          }
+        },
+        {
+          "client_id": "589188390852-s7qosjs482d0d920mfa8kr7amj4o2bt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8SG1X9JTb1xZSdZkHXa2xQ7C6DRBl8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589188390852-s7qosjs482d0d920mfa8kr7amj4o2bt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
